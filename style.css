@@ -83,7 +83,6 @@ header nav .branding{
 .hero .right h1{
     font-size: 4rem;
     font-weight: 100;
-    /* font-family: aespa, aespawoff, sans-serif; */
 }
 .hero .right h1 span{
     color: var(--primary);
@@ -107,7 +106,6 @@ section.about h1{
     margin-bottom: 1rem;
     font-size: 1.6rem;
     font-weight: 400;
-    /* font-family: aespa, aespawoff, sans-serif; */
 }
 section.about h1 span{
     color: var(--primary);
